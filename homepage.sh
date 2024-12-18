@@ -7,7 +7,7 @@ sudo apt update && sudo apt upgrade -y
 
 # Installation der benötigten Pakete
 echo "### Schritt 2: Installation der benötigten Pakete ###"
-sudo apt install nginx php-fpm php-mysqli php-curl php-xml php-mbstring certbot python3-certbot-nginx proftpd-basic phpmyadmin mariadb-server -y
+sudo apt install nginx php-fpm php-mysqli php-curl php-xml php-mbstring php-intl certbot python3-certbot-nginx proftpd-basic phpmyadmin mariadb-server -y
 
 # NGINX starten und aktivieren
 echo "### Schritt 3: NGINX wird gestartet und aktiviert ###"
