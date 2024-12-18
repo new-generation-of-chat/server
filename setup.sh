@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Logging aktivieren
